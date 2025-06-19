@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+html,body{
+  color: white;
+  background-color: #1b1b32;
+  font-family: Lato, sans-serif;
+  margin-top: 40px;
+
+}
+
+h1{
+  font-size: 25px;
+  color: #1b1b32;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align: center;
+  margin: 20px 0;
+}
+.Aplicacion-tareas{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center ;
+  align-items: center;
+}
+
+.logo-contenedor{
+  width: 100vw;
+  
+  display: flex;
+  justify-content: center;
+
+}
+
+.intelnova-logo {
+  width: 100px;
+  height: 50px;
+}
+
+.tarea-lista-principal{
+  width: 600px;
+  min-height: 500px;
+  background-color: #d0d0d5 ;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 25px;
+}
