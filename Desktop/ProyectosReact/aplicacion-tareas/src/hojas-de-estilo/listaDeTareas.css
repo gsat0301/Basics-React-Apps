@@ -5,3 +5,9 @@
     margin-top: 15px;
 
 }
+
+@media (min-width: 240px) and (max-width: 1024px){
+    .tarea-lista-contenedor{
+      width: 70vw;
+    }
+  }

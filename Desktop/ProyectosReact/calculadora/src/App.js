@@ -4,7 +4,7 @@ import Boton from './componentes/boton';
 import Pantalla from './componentes/pantalla';
 import Clear from './componentes/clear';
 import { useState } from 'react';
-import { evaluate, im } from 'mathjs';
+import { evaluate } from 'mathjs';
 
 function App() {
 

@@ -39,3 +39,10 @@ html, body{
   height: 70px;
 }
 
+@media screen and (min-widht: 240px)and (max-width:1024px){ 
+  /* Para dispositivos móviles */
+ .contenedor-principal{
+  height: auto;
+  width: auto;
+ } 
+}
